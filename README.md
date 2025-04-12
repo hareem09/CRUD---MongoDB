@@ -31,11 +31,7 @@ Install my-project with
 ```bash
   git clone https://github.com/hareem09/CRUD---MongoDB/blob/main/bookdata.js
 ```
-Change directory by running
 
-```bash
-cd STUDENT-APP
-```
     
 ## Usage
 Start the server
