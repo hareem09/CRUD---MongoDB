@@ -62,9 +62,9 @@ Then make a separate file name index.js and import that in a variable.
 ## MongoDB CRUD operations 
 Here's a quick overview of the  methods used in it:
 
-1. db.collection.find() => to view all students
+1. db.collection.find() => to view all books
 2. db.collection.findOneAndUpdate( filter, update, options ) => old one, new one , true:new  
-3. db.collection.findOneAndDelete( filter, options ) => the name which you want to delete,true:new.
+3. db.collection.findOneAndDelete( filter, options ) => the titlw which you want to delete,true:new.
 
 ## API Endpoints
 1. Get all books
